@@ -4,9 +4,7 @@ import { motion } from "motion/react"
 import axios from 'axios';
 import { serverUrl } from '../App';
 function Pricing() {
-  const navigate = useNavigate()
-  const [selectedPrice, setSelectedPrice] = useState(null);
-  const [paying, setPaying] = useState(false);
+  
 const [payingAmount, setPayingAmount] = useState(null);
 
 const handlePaying = async (amount) => {
