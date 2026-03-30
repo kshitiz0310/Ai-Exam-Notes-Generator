@@ -6,7 +6,12 @@ import TopicForm from '../components/TopicForm'
 import Sidebar from '../components/Sidebar'
 import FinalResult from '../components/FinalResult'
 function Notes() {
-  
+  const navigate = useNavigate()
+  const { userData } = useSelector((state) => state.user)
+  const credits = userData.credits
+  const [loading,setLoading]= useState(false)
+  const [result , setResult] = useState(null)
+  const [error,setError] = useState("")
 
   return (
     <div className='min-h-screen bg-gradient-to-br from-gray-100 to-gray-200 px-6 py-8'>
