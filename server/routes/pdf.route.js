@@ -11,3 +11,5 @@ const pdfRouter = express.Router()
 pdfRouter.post("/generate-pdf",isAuth,pdfDownload)
 
 export default pdfRouter
+
+// this is for pdf generation
