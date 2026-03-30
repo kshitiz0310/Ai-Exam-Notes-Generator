@@ -5,7 +5,8 @@ import { getCurrentUser } from '../services/api';
 import { useDispatch } from 'react-redux';
 import { useNavigate } from 'react-router-dom';
 function PaymentFailed() {
-    
+    const dispatch = useDispatch()
+    const navigate = useNavigate()
     useEffect(()=>{
 
         getCurrentUser(dispatch)
