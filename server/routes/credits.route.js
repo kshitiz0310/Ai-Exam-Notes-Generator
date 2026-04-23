@@ -9,3 +9,5 @@ const creditRouter = express.Router()
 creditRouter.post("/order" , isAuth ,createCreditsOrder )
 
 export default creditRouter
+
+//this is for credits
