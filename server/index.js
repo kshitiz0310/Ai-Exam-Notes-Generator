@@ -22,14 +22,23 @@ app.post(
   stripeWebhook
 );
 
-app.use(cors(
-    {origin: process.env.CLIENT_URL || "http://localhost:5173",
-        credentials:true,
-        methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"]
-    }
-))
+const allowedOrigins = [
+    process.env.CLIENT_URL,
+    process.env.CLIENT_URL_2,
+    "http://localhost:5173"
+].filter(Boolean)
 
+const corsOptions = {
+    origin: function(origin, callback) {
+        if (!origin) return callback(null, true)
+        if (allowedOrigins.includes(origin)) return callback(null, true)
+        callback(new Error("CORS policy does not allow this origin."), false)
+    },
+    credentials: true,
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+}
 
+app.use(cors(corsOptions))
 
 app.use(express.json())
 app.use(cookieParser())
