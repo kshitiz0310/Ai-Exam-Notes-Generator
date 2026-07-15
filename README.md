@@ -1,4 +1,4 @@
-<img width="717" height="225" alt="image" src="https://github.com/user-attachments/assets/531ae2ba-fe92-4719-aca6-640dcfa12f6c" /><div align="center">
+<div align="center">
 
 # 🧠 AI Exam Notes Generator
 
@@ -6,7 +6,7 @@
 
 An AI-powered platform that helps students generate concise, structured exam notes from their study material in seconds.
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-2ea44f?style=for-the-badge)](https://ai-exam-notes-generator-1.onrender.com)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-2ea44f?style=for-the-badge)](PASTE_YOUR_DEPLOY_LINK_HERE)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/kshitiz0310/Ai-Exam-Notes-Generator)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](#-license)
 
@@ -48,7 +48,7 @@ An AI-powered platform that helps students generate concise, structured exam not
 
 ## 🚀 Live Demo
 
-🔗 **[Click here to view the deployed project](https://ai-exam-notes-generator-1.onrender.com)**
+🔗 **[Click here to view the deployed project](PASTE_YOUR_DEPLOY_LINK_HERE)**
 
 ---
 
@@ -96,9 +96,9 @@ AI_API_KEY=your_ai_api_key
 
 ## 🧑‍💻 Author
 
-Built with ❤️ by:
-
-- **Kshitiz Tiwari** — [GitHub](https://github.com/kshitiz0310) · [LinkedIn](https://www.linkedin.com/in/kshitiz-tiwari-47610332b/)
+**Kshitiz Tiwari**
+- GitHub: [@kshitiz0310](https://github.com/kshitiz0310)
+- LinkedIn: [kshitiz-tiwari](https://www.linkedin.com/in/kshitiz-tiwari-47610332b/)
 
 ---
 
@@ -112,6 +112,6 @@ This project is licensed under the MIT License.
 
 <div align="center">
 
-Made with 💻 & ☕ by Kshitiz Tiwari
+Made with 💻 & ☕ by Kshitiz
 
 </div>
