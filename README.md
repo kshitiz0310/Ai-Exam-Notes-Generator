@@ -1,4 +1,4 @@
-<div align="center">
+<img width="717" height="225" alt="image" src="https://github.com/user-attachments/assets/531ae2ba-fe92-4719-aca6-640dcfa12f6c" /><div align="center">
 
 # 🧠 AI Exam Notes Generator
 
@@ -48,7 +48,7 @@ An AI-powered platform that helps students generate concise, structured exam not
 
 ## 🚀 Live Demo
 
-🔗 **[Click here to view the deployed project](PASTE_YOUR_DEPLOY_LINK_HERE)**
+🔗 **[Click here to view the deployed project](https://ai-exam-notes-generator-1.onrender.com)**
 
 ---
 
@@ -94,12 +94,11 @@ AI_API_KEY=your_ai_api_key
 
 ---
 
-## 🧑‍💻 Contributors
+## 🧑‍💻 Author
 
-Built with teamwork by:
+Built with ❤️ by:
 
 - **Kshitiz Tiwari** — [GitHub](https://github.com/kshitiz0310) · [LinkedIn](https://www.linkedin.com/in/kshitiz-tiwari-47610332b/)
-- *(Add your other 3 contributors here with their GitHub links)*
 
 ---
 
