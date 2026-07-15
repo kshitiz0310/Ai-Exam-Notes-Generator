@@ -6,7 +6,7 @@
 
 An AI-powered platform that helps students generate concise, structured exam notes from their study material in seconds.
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-2ea44f?style=for-the-badge)](PASTE_YOUR_DEPLOY_LINK_HERE)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-2ea44f?style=for-the-badge)](https://ai-exam-notes-generator-1.onrender.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/kshitiz0310/Ai-Exam-Notes-Generator)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](#-license)
 
@@ -48,7 +48,7 @@ An AI-powered platform that helps students generate concise, structured exam not
 
 ## 🚀 Live Demo
 
-🔗 **[Click here to view the deployed project](PASTE_YOUR_DEPLOY_LINK_HERE)**
+🔗 **[Click here to view the deployed project](https://ai-exam-notes-generator-1.onrender.com)**
 
 ---
 
